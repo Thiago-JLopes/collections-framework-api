@@ -45,22 +45,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CarrinhoDeCompra.executor": "Run",
-    "Application.CatalogoLivros.executor": "Run",
-    "Application.ListaTarefa.executor": "Run",
-    "Application.OrdenacaoPessoa.executor": "Run",
-    "Application.SomaNumeros.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/thiago/Desenvolvimento_Java/Santander/collection",
-    "onboarding.tips.debug.path": "/home/thiago/Desenvolvimento_Java/Santander/collection/src/main/java/org/collectionsjava/Main.java",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CarrinhoDeCompra.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CatalogoLivros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListaTarefa.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OrdenacaoPessoa.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SomaNumeros.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/thiago/Desenvolvimento_Java/Santander/collection&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/thiago/Desenvolvimento_Java/Santander/collection/src/main/java/org/collectionsjava/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.OrdenacaoPessoa">
+}</component>
+  <component name="RunManager" selected="Application.OrdenacaoNumeros">
     <configuration name="CarrinhoDeCompra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="List.OperacoesBasicas.CarrinhoDeCompra" />
       <module name="collection" />
@@ -87,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListaTarefa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="List.OperacoesBasicas.ListaTarefa" />
+    <configuration name="OrdenacaoNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="List.Ordenacao.OrdenacaoNumeros" />
       <module name="collection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="List.OperacoesBasicas.*" />
+          <option name="PATTERN" value="List.Ordenacao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OrdenacaoNumeros" />
         <item itemvalue="Application.OrdenacaoPessoa" />
         <item itemvalue="Application.SomaNumeros" />
         <item itemvalue="Application.CatalogoLivros" />
         <item itemvalue="Application.CarrinhoDeCompra" />
-        <item itemvalue="Application.ListaTarefa" />
       </list>
     </recent_temporary>
   </component>
