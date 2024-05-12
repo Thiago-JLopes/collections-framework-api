@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f65868ec-e207-4968-9d2c-1de09da13321" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/collectionsjava/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,28 +46,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.CarrinhoDeCompra.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CatalogoLivros.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ListaTarefa.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OrdenacaoPessoa.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SomaNumeros.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/thiago/Desenvolvimento_Java/Santander/collection&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/home/thiago/Desenvolvimento_Java/Santander/collection/src/main/java/org/collectionsjava/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CarrinhoDeCompra.executor": "Run",
+    "Application.CatalogoLivros.executor": "Run",
+    "Application.ConjuntoConvidados.executor": "Run",
+    "Application.ListaTarefa.executor": "Run",
+    "Application.OrdenacaoNumeros.executor": "Run",
+    "Application.OrdenacaoPessoa.executor": "Run",
+    "Application.SomaNumeros.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/thiago/Desenvolvimento_Java/Santander/collection",
+    "onboarding.tips.debug.path": "/home/thiago/Desenvolvimento_Java/Santander/collection/src/main/java/org/collectionsjava/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="Application.OrdenacaoNumeros">
-    <configuration name="CarrinhoDeCompra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="List.OperacoesBasicas.CarrinhoDeCompra" />
+}]]></component>
+  <component name="RunManager" selected="Application.ConjuntoPalavrasUnicas">
+    <configuration name="ConjuntoConvidados" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Set.OperacoesBasicas.ConjuntoConvidados" />
       <module name="collection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="List.OperacoesBasicas.*" />
+          <option name="PATTERN" value="Set.OperacoesBasicas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CatalogoLivros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="List.Pesquisa.CatalogoLivros" />
+    <configuration name="ConjuntoPalavrasUnicas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Set.OperacoesBasicas.ConjuntoPalavrasUnicas" />
       <module name="collection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="List.Pesquisa.*" />
+          <option name="PATTERN" value="Set.OperacoesBasicas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConjuntoPalavrasUnicas" />
+        <item itemvalue="Application.ConjuntoConvidados" />
         <item itemvalue="Application.OrdenacaoNumeros" />
         <item itemvalue="Application.OrdenacaoPessoa" />
         <item itemvalue="Application.SomaNumeros" />
-        <item itemvalue="Application.CatalogoLivros" />
-        <item itemvalue="Application.CarrinhoDeCompra" />
       </list>
     </recent_temporary>
   </component>
