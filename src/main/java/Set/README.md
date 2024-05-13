@@ -34,7 +34,7 @@ Crie uma classe chamada "ListaTarefas" que possui um conjunto de objetos do tipo
 * marcarTarefaPendente(String descricao): Marca uma tarefa como pendente de acordo com a descrição.
 * limparListaTarefas(): Remove todas as tarefas da lista de tarefas.
 
-#Ordenação Set
+# Ordenação Set
 ### 1. Cadastro de Produtos
 Crie uma classe chamada "CadastroProdutos" que possui um conjunto de objetos do tipo "Produto" como atributo. Cada produto possui atributos como nome, cod, preço e quantidade. Implemente os seguintes métodos:
 * adicionarProduto(long cod, String nome, double preco, int quantidade): Adiciona um produto ao cadastro.
