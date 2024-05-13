@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f65868ec-e207-4968-9d2c-1de09da13321" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Set/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Set/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +48,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AgendaContatos.executor": "Run",
+    "Application.CadastroProdutos.executor": "Run",
     "Application.CarrinhoDeCompra.executor": "Run",
     "Application.CatalogoLivros.executor": "Run",
     "Application.ConjuntoConvidados.executor": "Run",
@@ -66,13 +66,26 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ListaTarefas">
+  <component name="RunManager" selected="Application.CadastroProdutos">
     <configuration name="AgendaContatos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Set.Pesquisa.AgendaContatos" />
       <module name="collection" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Set.Pesquisa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CadastroProdutos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Set.Ordenacao.CadastroProdutos" />
+      <module name="collection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Set.Ordenacao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,26 +132,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrdenacaoNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="List.Ordenacao.OrdenacaoNumeros" />
-      <module name="collection" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="List.Ordenacao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CadastroProdutos" />
         <item itemvalue="Application.ListaTarefas" />
         <item itemvalue="Application.AgendaContatos" />
         <item itemvalue="Application.ConjuntoPalavrasUnicas" />
         <item itemvalue="Application.ConjuntoConvidados" />
-        <item itemvalue="Application.OrdenacaoNumeros" />
       </list>
     </recent_temporary>
   </component>
