@@ -31,6 +31,7 @@ public class CadastroProdutos {
             throw new RuntimeException("O conjunto está vazio.");
         } else {
             Set<Produto> produtosOrdenadosPorPreco = new TreeSet<>(new OrdenarPorPreco());
+            produtosOrdenadosPorPreco.addAll(produtoSet);
             System.out.println(produtosOrdenadosPorPreco);
         }
     }
