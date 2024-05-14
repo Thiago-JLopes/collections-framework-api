@@ -53,7 +53,9 @@
     "Application.CatalogoLivros.executor": "Run",
     "Application.ConjuntoConvidados.executor": "Run",
     "Application.ConjuntoPalavrasUnicas.executor": "Run",
+    "Application.ContagemPalavras.executor": "Run",
     "Application.Dicionario.executor": "Run",
+    "Application.EstoqueProdutos.executor": "Run",
     "Application.GerenciarAlunos.executor": "Run",
     "Application.ListaTarefa.executor": "Run",
     "Application.ListaTarefas.executor": "Run",
@@ -69,13 +71,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Dicionario">
-    <configuration name="CadastroProdutos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Set.Ordenacao.CadastroProdutos" />
+  <component name="RunManager" selected="Application.ContagemPalavras">
+    <configuration name="ContagemPalavras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Map.Pesquisa.ContagemPalavras" />
       <module name="collection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Set.Ordenacao.*" />
+          <option name="PATTERN" value="Map.Pesquisa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GerenciarAlunos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Set.Ordenacao.GerenciarAlunos" />
+    <configuration name="EstoqueProdutos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Map.Pesquisa.EstoqueProdutos" />
       <module name="collection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Set.Ordenacao.*" />
+          <option name="PATTERN" value="Map.Pesquisa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListaTarefas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Set.Pesquisa.ListaTarefas" />
+    <configuration name="GerenciarAlunos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Set.Ordenacao.GerenciarAlunos" />
       <module name="collection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Set.Pesquisa.*" />
+          <option name="PATTERN" value="Set.Ordenacao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ContagemPalavras" />
+        <item itemvalue="Application.EstoqueProdutos" />
         <item itemvalue="Application.Dicionario" />
         <item itemvalue="Application.Map.OperacoesBasicas.AgendaContatos" />
         <item itemvalue="Application.GerenciarAlunos" />
-        <item itemvalue="Application.CadastroProdutos" />
-        <item itemvalue="Application.ListaTarefas" />
       </list>
     </recent_temporary>
   </component>
