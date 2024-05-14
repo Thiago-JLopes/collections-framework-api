@@ -53,6 +53,7 @@
     "Application.CatalogoLivros.executor": "Run",
     "Application.ConjuntoConvidados.executor": "Run",
     "Application.ConjuntoPalavrasUnicas.executor": "Run",
+    "Application.Dicionario.executor": "Run",
     "Application.GerenciarAlunos.executor": "Run",
     "Application.ListaTarefa.executor": "Run",
     "Application.ListaTarefas.executor": "Run",
@@ -68,13 +69,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Map.OperacoesBasicas.AgendaContatos">
-    <configuration name="AgendaContatos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Set.Pesquisa.AgendaContatos" />
+  <component name="RunManager" selected="Application.Dicionario">
+    <configuration name="CadastroProdutos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Set.Ordenacao.CadastroProdutos" />
       <module name="collection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Set.Pesquisa.*" />
+          <option name="PATTERN" value="Set.Ordenacao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CadastroProdutos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Set.Ordenacao.CadastroProdutos" />
+    <configuration name="Dicionario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Map.OperacoesBasicas.Dicionario" />
       <module name="collection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Set.Ordenacao.*" />
+          <option name="PATTERN" value="Map.OperacoesBasicas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Dicionario" />
         <item itemvalue="Application.Map.OperacoesBasicas.AgendaContatos" />
         <item itemvalue="Application.GerenciarAlunos" />
         <item itemvalue="Application.CadastroProdutos" />
         <item itemvalue="Application.ListaTarefas" />
-        <item itemvalue="Application.AgendaContatos" />
       </list>
     </recent_temporary>
   </component>
